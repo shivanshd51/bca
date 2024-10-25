@@ -1,3 +1,4 @@
+# days program
 day=int(input("enter the number:"))
 a=day%7
 if(a==1):
