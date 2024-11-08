@@ -1,10 +1,9 @@
 # greatest number in the list
 
-a=[2,1,3,5,8,9]
+a=[-5,-3,-8]
 i=0
-b=0
+b=a[i+1]
 c=len(a)
-d=0
 while(i<c):
     d=a[i]
     if(b>d):

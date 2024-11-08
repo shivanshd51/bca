@@ -1,6 +1,6 @@
 # smallest number in list
 
-a=[2,4,1,5,7,6]
+a=[7,8,9]
 i=0
 b=0
 c=a[0]
