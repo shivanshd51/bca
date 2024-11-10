@@ -9,6 +9,6 @@ print(x)
 d=int(input('enter the number you want to remove :'))
 if(d in x):
     x.remove(d)
-    print(x)
+    print(x,"number has been removed from the list")
 else:
     print('element is not in the list')
