@@ -1,0 +1,9 @@
+a=[5,8,6,7]
+b=[4,3,2,1]
+d=[]
+i=0
+while(i<4):
+    c=(a[i]+b[i])
+    d.append(c)
+    i=i+1
+print(d)    
