@@ -11,4 +11,5 @@ for j in d1.values():
     l1.append(j)
 
 for k in l1:
-    print(k,"=",l1.count(k))
+    s=(k,l1.count(k))
+    print(set(s))
