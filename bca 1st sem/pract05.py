@@ -1,6 +1,6 @@
 # greatest of two numbers
-a=6
-b=5
+a=int(input("enter first number:"))
+b=int(input("enter second number:"))
 
 if(a>b):
     print(a,"is the greatest number")

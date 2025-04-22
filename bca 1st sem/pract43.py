@@ -71,13 +71,16 @@
 #     print(c,"is the greatest")
 
 # 11.check if prime number
-# a=int(input("enter the number you want to check :"))
-# if ((a%2==0) or (a%3==0) or (a%5==0) or (a%7==0)):
-#     print(a,"is not a prime number ..")
-# elif(a==0):
-#     print("the number is zero..")
-# else:
-#     print(a,"is a prime number..")
+
+a=int(input("enter the number you want to check :"))
+if ((a%2==0) or (a%3==0) or (a%5==0) or (a%7==0)):
+    print(a,"is not a prime number ..")
+elif(a==1):
+    print(a,"is not a prime number ..")
+elif(a==0):
+    print("the number is zero..")
+else:
+    print(a,"is a prime number..")
 
 # 12.convert celcius to farenheight
 # a=int(input("enter the temprature in celcius :"))
@@ -85,11 +88,11 @@
 # print("temprature in fahrenheit",b)
 
 # 13.find the factorial
-a=int(input("enter the number :"))
-i=0
-b=0
-while(i<a):
-    b=a*(a-1)
-    a=a-1
-    i=i+1
-print(b)
+# a=int(input("enter the number :"))
+# i=0
+# b=0
+# while(i<a):
+#     b=a*(a-1)
+#     a=a-1
+#     i=i+1
+# print(b)
