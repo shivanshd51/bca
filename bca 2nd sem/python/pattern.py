@@ -1,10 +1,7 @@
 #pattern
 
-i=1
-while i<=5:
-    j=1
-    while j<=i:
-        print("@",end=" ")
-        j=j+1
-    print()
-    i=i+1
+a=5
+for i in range(1,a):
+    for j in range(i):
+        print(j,end=" ")
+    print("")
