@@ -22,3 +22,24 @@
 
 
 
+// practice set 2
+
+// int main(){
+//     int a=1;int b=a;  //correct//
+//     int v=3*3; //correct//
+//     // char dt='22 dec incorrect'
+// }
+
+
+int main(){
+    int a= 97,b;
+    printf("enter the number you want to check:");
+    scanf("%d",&b);
+    if(b%97==0){
+        printf("%d is divisible by 97",b);
+    }
+    else{
+        printf("%d is not divisible by 97",b);
+    }
+    return 0;
+}
