@@ -16,23 +16,13 @@ It’s meant for learning, sharing, and tracking my progress as a programmer.
 <summary>Click to Expand</summary>
 
 - **Semester 1**
-  - C Programming Basics
-  - Introduction to Computers
+  - Python
+  - MySQL
 - **Semester 2**
-  - Data Structures in C
-  - Web Development Basics (HTML, CSS, JS)
+  - C With Data Structure
+  - Foundation Of Data Science
 - **Semester 3**
-  - Object-Oriented Programming in C++
-  - SQL & Database Management
-- **Semester 4**
-  - Java Programming
-  - Advanced Web Development
-- **Semester 5**
-  - Python Programming
-  - Software Engineering Concepts
-- **Semester 6**
-  - Final Year Projects
-  - Additional Practice Codes
+  - OOPs With JAVA
 
 </details>
 
@@ -61,4 +51,4 @@ It’s meant for learning, sharing, and tracking my progress as a programmer.
 ## 🚀 Getting Started
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/<your-username>/bca.git
+   git clone https://github.com/shivanshd51/bca.git
